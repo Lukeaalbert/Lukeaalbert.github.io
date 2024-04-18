@@ -131,7 +131,7 @@ main .primary {
 }
 #usc {
     color:  #990000;
-    font-family: serif;
-    font-weight: bold; 
-    -webkit-text-stroke: 0.5px #f4d557
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900; 
+    -webkit-text-stroke: 0.45px #f4d557
 }
