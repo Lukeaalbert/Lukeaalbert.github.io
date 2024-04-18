@@ -9,8 +9,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #ffffff;
-    color: #000000;
+    background: #1c1c1e;
+    color: #ffff;
     font-size: 18px;
     font-synthesis: none;
     -moz-font-feature-settings: 'kern';
@@ -61,7 +61,7 @@ main {
 
 main h1 {
     margin-top: 24px;
-    color: #050505;
+    color: #757575;
     font-size: 64px;
     font-weight: 600;
     line-height: 1.1;
@@ -93,7 +93,7 @@ main .primary {
 }
 
 .card:hover {
-    background: #eaeafd;
+    background: #0a84ff11;
 }
 
 .card:hover svg {
@@ -132,6 +132,6 @@ main .primary {
 #usc {
     color:  #990000;
     font-weight: bold; 
-    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-width: 0.53px;
     -webkit-text-stroke-color: #FFCC00;
 }
