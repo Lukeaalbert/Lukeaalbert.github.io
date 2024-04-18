@@ -132,6 +132,6 @@ main .primary {
 #usc {
     color:  #990000;
     font-weight: bold; 
-    -webkit-text-stroke-width: 0.53px;
+    -webkit-text-stroke-width: 0.7px;
     -webkit-text-stroke-color: #FFCC00;
 }
