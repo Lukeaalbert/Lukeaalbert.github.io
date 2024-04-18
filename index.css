@@ -113,16 +113,16 @@ main .primary {
 .ps {
     text-align: center;
     margin: 30px 0 24px;
-    color: #3c3c434d
+    color: #0000004d
 }
 
 @media(prefers-color-scheme:dark) {
     body {
-        background: #1c1c1e;
-        color: #fff
+        background: #ffffff;
+        color: #000000
     }
     main h1 {
-        color: #fff
+        color: #050505
     }
     .intro,
     .card {
@@ -132,19 +132,19 @@ main .primary {
         fill: #8e8e93
     }
     .card:hover {
-        background: #0a84ff11
+        background: #d5d5f9;
     }
     .card:hover svg {
         fill: #0a84ff
     }
     a.text-link {
-        color: #0a84ff
+        color: #007bf6
     }
     a.text-link:hover {
         background: #0a84ff18
     }
     .ps {
-        color: #ebebf54d
+        color: #757575;
     }
 }
 
