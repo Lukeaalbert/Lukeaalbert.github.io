@@ -130,8 +130,6 @@ main .primary {
     color: #0F9D58;
 }
 #usc {
-    color:  #990000;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 900; 
-    -webkit-text-stroke: 0.45px #f4d557
+    color:  #b01c1c;
+    font-weight: bold; 
 }
