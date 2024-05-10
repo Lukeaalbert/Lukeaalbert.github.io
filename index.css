@@ -118,35 +118,3 @@ main .primary {
 }
 
 
-@media (max-width: 480px){
-    main h1 {
-        font-size: 50px;
-    }
-    main .primary {
-        font-size: 18px;
-    }
-    .card {
-        height: 105px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: #2c2c2e;
-        border-radius: 8px;
-        transition: .15s background
-    }
-    .cards {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, 95px);;
-        gap: 13px;
-        margin-top: 20px
-    }
-    .card svg {
-        fill: #8e8e93;
-        width: 40px;
-        transition: .15s fill, .15s transform
-    }
-    
-    .card img {
-        width: 40px
-    }
-}
