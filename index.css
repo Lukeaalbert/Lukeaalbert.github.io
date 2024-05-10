@@ -118,7 +118,7 @@ main .primary {
 }
 
 
-@media (max-width: 400px){
+@media (max-width: 480px){
     main h1 {
         font-size: 50px;
     }
